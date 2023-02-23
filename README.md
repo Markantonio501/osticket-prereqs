@@ -26,8 +26,8 @@ This tutorial outlines the installation of the open-source help desk ticketing s
 - Step 1  
 -Our first step is creating a resouce group
 -Once a resource group has been created, we will create a Virtual Machine (VM) with 2-4 Virtual CPUs. While creating the VM, allow it to create a new Virtual      Network (VNET)
-- Step 2
-- Item 3
+- Step 2 To make this simple for us we can name the VM (Vm-osticket) our USERNAME:labuser and our PASSWORD:osTicketPassword1!
+- Step 3 After completing step 2 now we can continue with the installation files that can be accessed through this link https://drive.google.com/drive/u/1/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6
 - Item 4
 - Item 5
 
