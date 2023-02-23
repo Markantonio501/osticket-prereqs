@@ -23,7 +23,8 @@ This tutorial outlines the installation of the open-source help desk ticketing s
 
 <h2>Installating osTicket Prerequisites </h2>
 
-- Item 1
+- Step 1
+First we will need to create a virtual machine(VM) with 2-4 Virtual CPUs
 - Item 2
 - Item 3
 - Item 4
