@@ -26,7 +26,7 @@ This tutorial outlines the installation of the open-source help desk ticketing s
 - Step 1
  *Our first step is creating a resouce group
  *Once a resource group has been created, we will create a Virtual Machine (VM) with 2-4 Virtual CPUs. While creating the VM, allow it to create a new Virtual    Network (VNET)
-- Item 2
+- Step 2
 - Item 3
 - Item 4
 - Item 5
