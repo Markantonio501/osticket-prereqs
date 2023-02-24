@@ -34,11 +34,14 @@ This tutorial outlines the installation of the open-source help desk ticketing s
 Launch Configuration Wizard (after install) ->
 Standard Configuration ->
 Password1
+- Step 6 For the specific file (php-7.3.8-nts-Win32-VC15-x86.zip) we will create a directory or new file under the C: Drive and name it PHP. We will then unzip the contents into the new file Named PHP.
+- Step 7 Our final step to installation will be to Open IIS as an admin and register PHP from within IIS
+- There will be images of the entire process to help you through the installation process Thank you!
 
  
 
 
-<h2>Configuration Steps</h2>
+<h2>Installation Steps</h2>
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
